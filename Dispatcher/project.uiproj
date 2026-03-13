@@ -1,0 +1,6 @@
+{
+  "Name": "AI Driven Mail Classifier and Response System_Dispatcher",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
