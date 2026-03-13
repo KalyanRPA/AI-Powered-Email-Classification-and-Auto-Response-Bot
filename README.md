@@ -1,8 +1,8 @@
-AI-Powered Email Classifier & Auto Response System
+AI-Powered Email Classifier & Auto Response Bot
 
 Project Description
 
-The AI-Powered Email Classifier & Auto Response System is an intelligent email automation solution developed using UiPath. The bot automatically reads incoming emails, analyzes their content, and categorizes them into different groups based on their purpose and urgency. Based on this classification, the automation performs actions such as sending automated replies, flagging high-priority emails for human verification, or filtering non-actionable messages.
+The AI-Powered Email Classifier & Auto Response Bot is an intelligent email automation solution developed using UiPath. The bot automatically reads incoming emails, analyzes their content, and categorizes them into different groups based on their purpose and urgency. Based on this classification, the automation performs actions such as sending automated replies, flagging high-priority emails for human verification, or filtering non-actionable messages.
 This automation significantly reduces manual effort involved in email handling. It helps organizations respond faster to customer queries, ensures important emails are prioritized, and improves the overall efficiency of email management.
 
 How It Works
